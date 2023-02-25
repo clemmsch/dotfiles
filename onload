@@ -1,0 +1,2 @@
+#!/bin/bash
+screen -S protonmail -dm protonmail-bridge --cli &
